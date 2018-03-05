@@ -3,7 +3,7 @@ var cacheFiles = [
   './',
   './index.html',
   'index.js',
-  'sw-lifecycle.png'
+  'dog.jpg'
 ]
 
 self.addEventListener('install', function (event) {
